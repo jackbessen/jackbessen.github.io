@@ -1,0 +1,5 @@
+name: Jacks Website
+email: jackbessen@rutgers.edu
+baseurl: "jackbessen.me"
+markdown: kramdown
+theme: jekyll-theme-cayman
